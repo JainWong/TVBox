@@ -1,0 +1,179 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://www.stream-link.live/2024long.m3u
+
+#EXTINF:-1 tvg-id="EPG" tvg-name="EPG(電子節目單)" tvg-logo="http://content.stream-link.org/tv_logo/stream_link_logo.png" group-title="EPG",EPG下載(http://content.stream-link.org/epg/guide.xml)
+http://content.stream-link.org/epg/guide.xml
+#EXTINF:-1 tvg-id="Jade.my" tvg-name="華麗(翡翠台)" tvg-logo="http://content.stream-link.org/tv_logo/astro_jade.png" group-title="Astro",華麗(翡翠台)
+https://www.stream-link.live/2024long/11424415874.php?id=h23ec
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
+https://www.stream-link.live/2024long/11424415874.php?id=h77wr
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_j2.png" group-title="TVB",J2台
+https://www.stream-link.live/2024long/11424415874.php?id=h04sp
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_news.png" group-title="TVB",無綫新聞台
+https://www.stream-link.live/2024long/11424415874.php?id=h27un
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
+https://www.stream-link.live/2024long/11424415874.php?id=h04gd
+#EXTINF:-1 tvg-id="nowNews" tvg-name="Now新聞台" tvg-logo="http://content.stream-link.org/tv_logo/now_332.png" group-title="香港電視娛樂",Now新聞台
+https://www.stream-link.live/2024long/11424415874.php?id=h40uv
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV99" tvg-logo="http://content.stream-link.org/tv_logo/viutv.png" group-title="香港電視娛樂",ViuTV99
+https://www.stream-link.live/2024long/11424415874.php?id=h69nk
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="中央新聞台" tvg-logo="http://content.stream-link.org/tv_logo/cctv_13.png" group-title="中央電視台",中央新聞台
+https://www.stream-link.live/2024long/11424415874.php?id=h24wm
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="http://content.stream-link.org/tv_logo/hkibc.png" group-title="奇妙電視",香港國際財經台
+https://www.stream-link.live/2024long/11424415874.php?id=h78dg
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="http://content.stream-link.org/tv_logo/hoy_tv.png" group-title="奇妙電視",香港開電視
+https://www.stream-link.live/2024long/11424415874.php?id=h06ne
+#EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="http://content.stream-link.org/tv_logo/hoy_info.png" group-title="奇妙電視",香港開電視資訊台
+https://www.stream-link.live/2024long/11424415874.php?id=h62nq
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel" tvg-logo="http://content.stream-link.org/tv_logo/phtv_info.png" group-title="鳳凰衛視",鳳凰衛視資訊台
+https://www.stream-link.live/2024long/11424415874.php?id=h77bw
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="鳳凰衛視中文台" tvg-logo="http://content.stream-link.org/tv_logo/phtv_live.png" group-title="鳳凰衛視",鳳凰衛視中文台
+https://www.stream-link.live/2024long/11424415874.php?id=h88ks
+#EXTINF:-1 tvg-id="PhoenixHongKongChannel" tvg-name="鳳凰衛視香港台" tvg-logo="http://content.stream-link.org/tv_logo/phtv_hk.png" group-title="鳳凰衛視",鳳凰衛視香港台
+https://www.stream-link.live/2024long/11424415874.php?id=h58hm
+#EXTINF:-1 tvg-id="9999" tvg-name="澳門蓮花衛視" tvg-logo="http://content.stream-link.org/tv_logo/macault.png" group-title="電影系列",澳門蓮花衛視
+https://www.stream-link.live/2024long/11424415874.php?id=h37cr
+#EXTINF:-1 tvg-id="1" tvg-name="MytvSuper Free" tvg-logo="http://content.stream-link.org/tv_logo/mytvsuper.png" group-title="Astro",MytvSuper Free
+https://www.stream-link.live/2024long/11424415874.php?id=h01nb
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB星河台" tvg-logo="http://content.stream-link.org/tv_logo/mytv_214.png" group-title="Astro",TVB星河台
+https://www.stream-link.live/2024long/11424415874.php?id=h07sw
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧經典台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_classic.png" group-title="Astro",TVB千禧經典台
+https://www.stream-link.live/2024long/11424415874.php?id=h12jm
+#EXTINF:-1 tvg-id="CelestialMoviesMalaysia" tvg-name="天映頻道" tvg-logo="http://content.stream-link.org/tv_logo/astro_celestial_movies.png" group-title="電影系列",天映頻道
+https://www.stream-link.live/2024long/11424415874.php?id=h73fa
+#EXTINF:-1 tvg-id="8TV" tvg-name="八度空間" tvg-logo="http://content.stream-link.org/tv_logo/8tv.png" group-title="Astro",八度空間
+https://www.stream-link.live/2024long/11424415874.php?id=h48ru
+#EXTINF:-1 tvg-id="Channel8" tvg-name="Channel 8" tvg-logo="http://content.stream-link.org/tv_logo/channel_8.png" group-title="新加坡",新加坡8頻道
+https://www.stream-link.live/2024long/11424415874.php?id=h87mf
+#EXTINF:-1 tvg-id="ChannelU" tvg-name="Channel U" tvg-logo="http://content.stream-link.org/tv_logo/channel_u.png" group-title="新加坡",新加坡U頻道
+https://www.stream-link.live/2024long/11424415874.php?id=h29uj
+#EXTINF:-1 tvg-id="HBOAsia" tvg-name="HBO Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo.png" group-title="電影系列",HBO Asia
+https://www.stream-link.live/2024long/11424415874.php?id=h42mz
+#EXTINF:-1 tvg-id="HBOFamilyAsia" tvg-name="HBO Family Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo_family.png" group-title="電影系列",HBO Family Asia
+https://www.stream-link.live/2024long/11424415874.php?id=h49sk
+#EXTINF:-1 tvg-id="HBOHitsAsia" tvg-name="HBO Hits Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo_hits.png" group-title="電影系列",HBO Hits Asia
+https://www.stream-link.live/2024long/11424415874.php?id=h20gz
+#EXTINF:-1 tvg-id="HBOSignatureAsia" tvg-name="HBO Signature Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo_signature.png" group-title="電影系列",HBO Signature Asia
+https://www.stream-link.live/2024long/11424415874.php?id=h77rb
+#EXTINF:-1 tvg-id="CinemaxAsia" tvg-name="Cinemax Asia" tvg-logo="http://content.stream-link.org/tv_logo/Cinemax.png" group-title="電影系列",Cinemax Asia
+https://www.stream-link.live/2024long/11424415874.php?id=h68dw
+#EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="Now精選體育" tvg-logo="http://content.stream-link.org/tv_logo/now_630.png" group-title="Now",Now精選體育
+https://www.stream-link.live/2024long/11424415874.php?id=s64bb
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="http://content.stream-link.org/tv_logo/videoland_sport.png" group-title="體育休閒",緯來體育
+https://www.stream-link.live/2024long/11424415874.php?id=s23ce
+#EXTINF:-1 tvg-id="1987" tvg-name="五星體育" tvg-logo="http://content.stream-link.org/tv_logo/great_sports.png" group-title="體育休閒",五星體育
+https://www.stream-link.live/2024long/11424415874.php?id=s81tg
+#EXTINF:-1 tvg-id="litv-longturn07" tvg-name="博斯運動一台" tvg-logo="http://content.stream-link.org/tv_logo/longturn07.png" group-title="體育休閒",博斯運動一台
+https://www.stream-link.live/2024long/11424415874.php?id=s56jp
+#EXTINF:-1 tvg-id="litv-longturn09" tvg-name="博斯網球台" tvg-logo="http://content.stream-link.org/tv_logo/longturn09.png" group-title="體育休閒",博斯網球台
+https://www.stream-link.live/2024long/11424415874.php?id=s99nr
+#EXTINF:-1 tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="http://content.stream-link.org/tv_logo/unbeaten.png" group-title="體育休閒",Unbeaten
+https://www.stream-link.live/2024long/11424415874.php?id=s36cg
+#EXTINF:-1 tvg-id="beINSPORTSXTRA" tvg-name="beIN SPORTS XTRA" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports_xtra.png" group-title="體育休閒",beIN SPORTS XTRA
+https://www.stream-link.live/2024long/11424415874.php?id=s81az
+#EXTINF:-1 tvg-id="beINSports" tvg-name="beIN SPORTS" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports.png" group-title="體育休閒",beIN SPORTS
+https://www.stream-link.live/2024long/11424415874.php?id=s79hn
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN SPORTS 2" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports2.png" group-title="體育休閒",beIN SPORTS 2
+https://www.stream-link.live/2024long/11424415874.php?id=s98bj
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN SPORTS 3" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports3.png" group-title="體育休閒",beIN SPORTS 3
+https://www.stream-link.live/2024long/11424415874.php?id=s51gu
+#EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN SPORTS 4" tvg-logo="http://content.stream-link.org/tv_logo/bein_sports4.png" group-title="體育休閒",beIN SPORTS 4
+https://www.stream-link.live/2024long/11424415874.php?id=s24vh
+#EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="Astro SUPERSPORT" tvg-logo="http://content.stream-link.org/tv_logo/astro_supersport.png" group-title="體育休閒",Astro SUPERSPORT
+https://www.stream-link.live/2024long/11424415874.php?id=s68jw
+#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-name="Astro SUPERSPORT 2" tvg-logo="http://content.stream-link.org/tv_logo/astro_supersport2.png" group-title="體育休閒",Astro SUPERSPORT 2
+https://www.stream-link.live/2024long/11424415874.php?id=s43gv
+#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-name="Astro SUPERSPORT 3" tvg-logo="http://content.stream-link.org/tv_logo/astro_supersport3.png" group-title="體育休閒",Astro SUPERSPORT 3
+https://www.stream-link.live/2024long/11424415874.php?id=s27nb
+#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-name="Astro SUPERSPORT 4" tvg-logo="http://content.stream-link.org/tv_logo/astro_supersport4.png" group-title="體育休閒",Astro SUPERSPORT 4
+https://www.stream-link.live/2024long/11424415874.php?id=s62jd
+#EXTINF:-1 tvg-id="ChampionsTVEPL" tvg-name="Peacock Premier League" tvg-logo="http://content.stream-link.org/tv_logo/peacock_premier_league.png" group-title="體育休閒",Peacock英超
+https://www.stream-link.live/2024long/11424415874.php?id=s19am
+#EXTINF:-1 tvg-id="nowNBA" tvg-name="Sky Sport NBA" tvg-logo="http://content.stream-link.org/tv_logo/sky_sport_nba.png" group-title="體育休閒",Sky Sport NBA
+https://www.stream-link.live/2024long/11424415874.php?id=s31dp
+#EXTINF:-1 tvg-id="MLB" tvg-name="MLB" tvg-logo="http://content.stream-link.org/tv_logo/mlb.png" group-title="體育休閒",MLB(美式棒球聯盟)
+https://www.stream-link.live/2024long/11424415874.php?id=s37we
+#EXTINF:-1 tvg-id="nowNBA" tvg-name="NBA TV" tvg-logo="http://content.stream-link.org/tv_logo/nba_tv.png" group-title="體育休閒",NBA TV(美職籃球)
+https://www.stream-link.live/2024long/11424415874.php?id=s28au
+#EXTINF:-1 tvg-id="NFLNetwork" tvg-name="NFL Network" tvg-logo="http://content.stream-link.org/tv_logo/nfl.png" group-title="體育休閒",NFL Network(美式足球聯盟)
+https://www.stream-link.live/2024long/11424415874.php?id=s79pk
+#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="http://content.stream-link.org/tv_logo/kbs_world.png" group-title="未分类",KBS World
+https://www.stream-link.live/2024long/11424415874.php?id=e79da
+#EXTINF:-1 tvg-id="GEM" tvg-name="Sony GEM" tvg-logo="http://content.stream-link.org/tv_logo/gem.png" group-title="日韓",GEM
+https://www.stream-link.live/2024long/11424415874.php?id=e00uv
+#EXTINF:-1 tvg-id="PLAYY" tvg-name="PLAYY電影" tvg-logo="http://content.stream-link.org/tv_logo/playy_1.png" group-title="電影系列",PLAYY 韓國電影台
+https://www.stream-link.live/2024long/11424415874.php?id=e58ph
+#EXTINF:-1 tvg-id="sonypixhd" tvg-name="SONY PIX HD" tvg-logo="http://content.stream-link.org/tv_logo/sony_pix.png" group-title="電影系列",SONY PIX HD(電影台)
+https://www.stream-link.live/2024long/11424415874.php?id=e78ru
+#EXTINF:-1 tvg-id="9999" tvg-name="天才衝衝衝" tvg-logo="http://content.stream-link.org/tv_logo/cts_entertainment.png" group-title="台灣綜合綜藝",天才衝衝衝
+https://www.stream-link.live/2024long/11424415874.php?id=t90zd
+#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="http://content.stream-link.org/tv_logo/cts.png" group-title="台灣綜合綜藝",華視
+https://www.stream-link.live/2024long/11424415874.php?id=t94sj
+#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="http://content.stream-link.org/tv_logo/ctv.png" group-title="台灣綜合綜藝",中視
+https://www.stream-link.live/2024long/11424415874.php?id=t41gt
+#EXTINF:-1 tvg-id="台视" tvg-name="台視" tvg-logo="http://content.stream-link.org/tv_logo/ttv.png" group-title="台灣綜合綜藝",台視
+https://www.stream-link.live/2024long/11424415874.php?id=t94jc
+#EXTINF:-1 tvg-id="4gtv-live087" tvg-name="TVBS綜藝台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_zy.png" group-title="台灣綜合綜藝",TVBS綜藝台
+https://www.stream-link.live/2024long/11424415874.php?id=t13nz
+#EXTINF:-1 tvg-id="4gtv-live088" tvg-name="TVBS台劇台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_tj.png" group-title="台灣綜合綜藝",TVBS台劇台
+https://www.stream-link.live/2024long/11424415874.php?id=t71ha
+#EXTINF:-1 tvg-id="4gtv-4gtv067" tvg-name="TVBS精彩台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_jc.png" group-title="台灣綜合綜藝",TVBS精彩台
+https://www.stream-link.live/2024long/11424415874.php?id=t58cm
+#EXTINF:-1 tvg-id="4gtv-4gtv068" tvg-name="TVBS歡樂台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_42.png" group-title="台灣綜合綜藝",TVBS歡樂台
+https://www.stream-link.live/2024long/11424415874.php?id=t53us
+#EXTINF:-1 tvg-id="TVBSAsia" tvg-name="TVBS亞洲台" tvg-logo="http://content.stream-link.org/tv_logo/tvbs_asia.png" group-title="台灣綜合綜藝",TVBS亞洲台
+https://www.stream-link.live/2024long/11424415874.php?id=t30um
+#EXTINF:-1 tvg-id="CTiAsia" tvg-name="中天亞洲台" tvg-logo="http://content.stream-link.org/tv_logo/cti_asia.png" group-title="台灣綜合綜藝",中天亞洲台
+https://www.stream-link.live/2024long/11424415874.php?id=t35kr
+#EXTINF:-1 tvg-id="4gtv-live207" tvg-name="三立綜合台" tvg-logo="http://content.stream-link.org/tv_logo/set_zh.png" group-title="台灣綜合綜藝",三立綜合台
+https://www.stream-link.live/2024long/11424415874.php?id=t41gm
+#EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視HD" tvg-logo="http://content.stream-link.org/tv_logo/ftv_hd.png" group-title="台灣綜合綜藝",民視HD
+https://www.stream-link.live/2024long/11424415874.php?id=t62qd
+#EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_1.png" group-title="台灣綜合綜藝",民視第一台
+https://www.stream-link.live/2024long/11424415874.php?id=t80ru
+#EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_tw.png" group-title="台灣綜合綜藝",民視台灣台
+https://www.stream-link.live/2024long/11424415874.php?id=t96zp
+#EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_entertainment.png" group-title="台灣綜合綜藝",民視綜藝台
+https://www.stream-link.live/2024long/11424415874.php?id=t11uh
+#EXTINF:-1 tvg-id="litv-ftv09" tvg-name="民視影劇台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_drama.png" group-title="台灣綜合綜藝",民視影劇台
+https://www.stream-link.live/2024long/11424415874.php?id=t40ar
+#EXTINF:-1 tvg-id="litv-ftv07" tvg-name="民視旅遊台" tvg-logo="http://content.stream-link.org/tv_logo/ftv_travel.png" group-title="台灣綜合綜藝",民視旅遊台
+https://www.stream-link.live/2024long/11424415874.php?id=t75km
+#EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龙华电影" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_003.png" group-title="台灣綜合綜藝",龍華電影
+https://www.stream-link.live/2024long/11424415874.php?id=t03gj
+#EXTINF:-1 tvg-id="litv-longturn11" tvg-name="龍華日韓" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_011.png" group-title="台灣綜合綜藝",龍華日韓
+https://www.stream-link.live/2024long/11424415874.php?id=t64vs
+#EXTINF:-1 tvg-id="litv-longturn12" tvg-name="龍華偶像" tvg-logo="http://content.stream-link.org/tv_logo/longturn12.png" group-title="台灣綜合綜藝",龍華偶像
+https://www.stream-link.live/2024long/11424415874.php?id=t21uf
+#EXTINF:-1 tvg-id="litv-longturn18" tvg-name="龍華戲劇" tvg-logo="http://content.stream-link.org/tv_logo/longturn18.png" group-title="台灣綜合綜藝",龍華戲劇
+https://www.stream-link.live/2024long/11424415874.php?id=t77rt
+#EXTINF:-1 tvg-id="litv-longturn21" tvg-name="龍華經典" tvg-logo="http://content.stream-link.org/tv_logo/longturn21.png" group-title="台灣綜合綜藝",龍華經典
+https://www.stream-link.live/2024long/11424415874.php?id=t33au
+#EXTINF:-1 tvg-id="4gtv-4gtv046" tvg-name="靖天綜合台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv046.png" group-title="台灣綜合綜藝",靖天綜合台
+https://www.stream-link.live/2024long/11424415874.php?id=t43nt
+#EXTINF:-1 tvg-id="4gtv-4gtv061" tvg-name="靖天電影台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_061.png" group-title="台灣綜合綜藝",靖天電影台
+https://www.stream-link.live/2024long/11424415874.php?id=t93ev
+#EXTINF:-1 tvg-id="4gtv-4gtv047" tvg-name="靖天日本台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_047.png" group-title="台灣綜合綜藝",靖天日本台
+https://www.stream-link.live/2024long/11424415874.php?id=t67qs
+#EXTINF:-1 tvg-id="4gtv-4gtv054" tvg-name="靖天歡樂台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv054.png" group-title="台灣綜合綜藝",靖天歡樂台
+https://www.stream-link.live/2024long/11424415874.php?id=t76bg
+#EXTINF:-1 tvg-id="NickelodeonAsia" tvg-name="尼克兒童頻道" tvg-logo="http://content.stream-link.org/tv_logo/nickelodeon.png" group-title="台灣綜合綜藝",尼克兒童頻道
+https://www.stream-link.live/2024long/11424415874.php?id=t28br
+#EXTINF:-1 tvg-id="NickJrAsia" tvg-name="Nick Jr. 兒童頻道" tvg-logo="http://content.stream-link.org/tv_logo/nickjr.png" group-title="台灣綜合綜藝",Nick Jr. 兒童頻道
+https://www.stream-link.live/2024long/11424415874.php?id=t24gm
+#EXTINF:-1 tvg-id="4gtv-live025" tvg-name="MTV Live" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_025.png" group-title="台灣綜合綜藝",MTV Live
+https://www.stream-link.live/2024long/11424415874.php?id=t68kh
+#EXTINF:-1 tvg-id="4gtv-live026" tvg-name="History歷史頻道" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_026.png" group-title="台灣綜合綜藝",History歷史頻道
+https://www.stream-link.live/2024long/11424415874.php?id=t42cw
+#EXTINF:-1 tvg-id="4gtv-live027" tvg-name="CI 罪案偵查頻道" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_027.png" group-title="台灣綜合綜藝",CI 罪案偵查頻道
+https://www.stream-link.live/2024long/11424415874.php?id=t00wq
+#EXTINF:-1 tvg-id="4gtv-4gtv070" tvg-name="愛爾達娛樂台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_070.png" group-title="台灣綜合綜藝",愛爾達娛樂台
+https://www.stream-link.live/2024long/11424415874.php?id=t59av
+#EXTINF:-1 tvg-id="4gtv-live120" tvg-name="愛爾達生活旅遊台" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_live120.png" group-title="台灣綜合綜藝",愛爾達生活旅遊台
+https://www.stream-link.live/2024long/11424415874.php?id=t04ed
+#EXTINF:-1 tvg-id="litv-longturn17" tvg-name="亞洲旅遊台" tvg-logo="http://content.stream-link.org/tv_logo/asia_travel.png" group-title="台灣綜合綜藝",亞洲旅遊台
+https://www.stream-link.live/2024long/11424415874.php?id=t04hd
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" tvg-logo="http://content.stream-link.org/tv_logo/4gtv_208.png" group-title="台灣綜合綜藝",Love Nature
+https://www.stream-link.live/2024long/11424415874.php?id=t23qf
